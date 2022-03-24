@@ -1,0 +1,11 @@
+author: Danielo Rodríguez Rivero
+core-version: >=5.1.13
+dependents: 
+description: Plugin containing specific configurations for the online version of NoteSelf
+list: readme
+name: online
+plugin-type: plugin
+released: Sat, 11 Apr 2017 12:23:41 GMT
+title: $:/plugins/noteself/online
+type: application/json
+version: 1.0.0
