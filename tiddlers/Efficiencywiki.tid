@@ -1,37 +1,8 @@
-created: 20210902044836979
-creator: 林一二
-icon: 🔝
-list: Efficiencywiki
-modified: 20220324205953827
+created: 20220324210504013
+creator: TidGiUser
+icon: ♥️
+modified: 20220324210918567
 modifier: TidGiUser
 page-cover: https://i.pinimg.com/originals/0d/31/3e/0d313e0741d24a50edaf3ff5e10509fe.gif
 title: Efficiencywiki
 type: text/vnd.tiddlywiki
-
-{{徽章列表}}
-
-!! 如何浏览此知识库
-
-# 可以翻阅右边的[[文档目录|TW-Locator例子：当前知识库的目录]]，注意查看[[文档目录的使用帮助|$:/plugins/linonetwo/itonnote/Help/TW-Locator基于标签生成的文件夹目录结构使用方法]]
-# 查看每个[[条目]]底部的[[反向链接]]
-# 点击右边栏上的 {{$:/core/ui/Buttons/CommandPalette}} 按钮来打开搜索框（或直接点击 {{$:/core/ui/Buttons/CommandPalette}} ！）
-# 还是找不到的话可以到[[资源链接]]里在其它社区资源里搜索~
-
-!! 如何开始使用太微
-
-# 查看[[如何保存]]来下载相关应用程序，创建你自己的知识库。
-# 在网页上直接修改此知识库试试，放心，[[你不会真正修改到我们数据库里的内容|如何保存内容到社区仓库里]]。
-
-!! 背景介绍
-
-<<reuse-tiddler "太微背景介绍">>
-
-!! 如何更新此文档
-
-<<reuse-tiddler "如何保存内容到社区仓库里">>
-
-<<reuse-tiddler "快速创建新笔记按钮">>
-
-!! 我们的计划
-
-<<reuse-tiddler "TODO List">>
