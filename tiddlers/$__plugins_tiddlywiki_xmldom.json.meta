@@ -1,0 +1,8 @@
+dependents: 
+description: xmldom library
+list: readme license
+name: xmldom
+plugin-type: plugin
+title: $:/plugins/tiddlywiki/xmldom
+type: application/json
+version: 5.2.1
