@@ -1,37 +1,6 @@
-created: 20210902044836979
-creator: 林一二
-icon: 🎉
-list: 太微背景介绍 幻灯片 如何保存 基础知识 自动化 排查问题 资源链接 插件开发 插件使用 徽章列表
-modified: 20220223140946688
-modifier: 林一二
-page-cover: https://pic4.zhimg.com/v2-881f391ae052f85939fcfeb40bc2056c
+created: 20220324210504013
+creator: TidGiUser
+modified: 20220324210530012
+modifier: TidGiUser
 title: 欢迎来到太微！
 type: text/vnd.tiddlywiki
-
-{{徽章列表}}
-
-!! 如何浏览此知识库
-
-# 可以翻阅右边的[[文档目录|TW-Locator例子：当前知识库的目录]]，注意查看[[文档目录的使用帮助|$:/plugins/linonetwo/itonnote/Help/TW-Locator基于标签生成的文件夹目录结构使用方法]]
-# 查看每个[[条目]]底部的[[反向链接]]
-# 点击右边栏上的 {{$:/core/ui/Buttons/CommandPalette}} 按钮来打开搜索框（或直接点击 {{$:/core/ui/Buttons/CommandPalette}} ！）
-# 还是找不到的话可以到[[资源链接]]里在其它社区资源里搜索~
-
-!! 如何开始使用太微
-
-# 查看[[如何保存]]来下载相关应用程序，创建你自己的知识库。
-# 在网页上直接修改此知识库试试，放心，[[你不会真正修改到我们数据库里的内容|如何保存内容到社区仓库里]]。
-
-!! 背景介绍
-
-<<reuse-tiddler "太微背景介绍">>
-
-!! 如何更新此文档
-
-<<reuse-tiddler "如何保存内容到社区仓库里">>
-
-<<reuse-tiddler "快速创建新笔记按钮">>
-
-!! 我们的计划
-
-<<reuse-tiddler "TODO List">>
