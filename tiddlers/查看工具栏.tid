@@ -1,0 +1,9 @@
+created: 20211016101239661
+creator: 林一二
+modified: 20211016101346791
+modifier: 林一二
+tags: 基础知识
+title: 查看工具栏
+type: text/vnd.tiddlywiki
+
+就是条目标题右边含有{{$:/core/images/down-arrow}}按钮和{{$:/core/images/close-button}}按钮等一系列条目操作按钮的工具栏。
