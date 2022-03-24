@@ -1,9 +1,0 @@
-author: Caolan McMahon
-dependents: 
-description: async.js library
-list: readme license
-name: Async
-plugin-type: plugin
-title: $:/plugins/tiddlywiki/async
-type: application/json
-version: 5.2.1
