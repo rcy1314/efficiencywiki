@@ -1,6 +1,5 @@
 author: Gk0Wk
-core-version: >=5.2.0
-dependents: $:/plugins/felixhayashi/hotzone
+dependents: 
 description: ECharts for TiddlyWiki5
 list: readme LICENSE
 name: ECharts
@@ -8,4 +7,4 @@ plugin-type: plugin
 source: https://github.com/tiddly-gittly/tw-echarts/tree/master/plugins/Gk0Wk/echarts
 title: $:/plugins/Gk0Wk/echarts
 type: application/json
-version: 0.0.7
+version: 0.0.3
