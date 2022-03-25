@@ -1,0 +1,8 @@
+author: Stephen Kimmel
+description: Balance Checker
+list: BalanceCheckList
+name: BalanceCheck
+plugin-type: plugin
+title: $:/plugins/sk/BalanceCheck
+type: application/json
+version: 0.0.5

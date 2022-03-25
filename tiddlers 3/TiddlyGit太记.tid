@@ -1,0 +1,15 @@
+caption: 太记
+created: 20211005051214953
+creator: 林一二
+modified: 20211011140150667
+modifier: 林一二
+title: TiddlyGit太记
+type: text/vnd.tiddlywiki
+
+[img[TiddlyGit-Screenshot.png]]
+
+可以用「打开本地Wiki」功能来打开 TiddlyWiki 官方文档。
+
+!!! 休眠工作区
+
+左侧灰色的工作区是「休眠工作区」，右键工作区图标，在设置里点开「开启休眠」，可以让这个 Wiki 在未使用时不占用系统资源。例如让官方文档工作区处于休眠状态节省 CPU，等到想查看官方文档的时候，再点击工作区图标就能一键开启。

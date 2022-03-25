@@ -1,0 +1,10 @@
+author: Mario Pietsch
+core-version: >=5.1.6
+dependents: 
+description: Extends the search interface
+list: readme license history
+name: New Tiddler from Search
+plugin-type: plugin
+title: $:/plugins/wikilabs/new-tiddler-from-search
+type: application/json
+version: 1.0.1

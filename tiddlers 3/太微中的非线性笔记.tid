@@ -1,0 +1,15 @@
+created: 20220107013305882
+creator: 林一二
+modified: 20220108102043937
+modifier: 林一二
+tags: 科普幻灯片
+title: 太微中的非线性笔记
+type: text/vnd.tiddlywiki
+
+* 非线性：组成部分的简单加和/增长率不是常数；
+* 非线性笔记：随着积累的增加，输出能力增长越来越快，增长率随积累量增长
+** 线性的例子：幻灯片，从头灌输到尾
+** 非线性笔记：访问上的非线性，像开放世界一样可以自由探索，形成[[数字花园|https://www.zhihu.com/question/400660802/answer/1474845176]]
+** 非线性的可视化[[Echarts可视化插件]]
+
+<$echarts $tiddler="TheBrain2level.js"/>

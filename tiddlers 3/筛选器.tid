@@ -1,0 +1,36 @@
+created: 20211003082407925
+creator: 林一二
+modified: 20220125033617417
+modifier: 林一二
+tags: 基础知识 入门幻灯片 筛选器表达式教程幻灯片
+title: 筛选器
+type: text/vnd.tiddlywiki
+
+!! 类比
+
+筛选器长得类似链接 `[[ ]]` 尤其像图片引用 `[img[ProductHunt-Badge.svg]]`：
+
+> 名称开头为「插」的所有条目 `[prefix[插]]` <<list-links "[prefix[插]]">>
+
+!! 相关阅读列表
+
+首先阅读[[中文官方文档的教程|https://bramchen.github.io/tw5-docs/zh-Hans/#Filters]]。
+
+# [[TiddlyWiki Filter Expression：释放 TiddlyWiki 十倍威力的工具 @闷声|https://zhuanlan.zhihu.com/p/346647657]]
+
+!! 筛选器相关的概念
+
+* 筛选器由一个或多个[[运行逻辑（Run）|https://bramchen.github.io/tw5-docs/zh-Hans/#Filter%20Run]]组成
+** 运行逻辑由一个或多个[[逻辑步骤（Step）|https://bramchen.github.io/tw5-docs/zh-Hans/#Filter%20Step]]组成
+** 运行逻辑前面可以加上[[+-=~等前置码（prefix）|https://bramchen.github.io/tw5-docs/zh-Hans/#Filter%20Expression]]
+
+!! 筛选器中使用变量
+
+* `[xxx]`就是指"xxx"字符串
+* `<xxx>`是指xxx变量
+* `{xxx}`是指xxx条目的text字段
+* `{xxx!!yyy}`是指xxx条目的yyy字段
+* `{!!yyy}`是指当前条目的yyy字段
+* `[<xxx>!match[]]`是判断当前变量存不存在
+
+详见[[变量在不同情况下的多种写法]]和[[嵌入在不同情况下的多种写法]]。

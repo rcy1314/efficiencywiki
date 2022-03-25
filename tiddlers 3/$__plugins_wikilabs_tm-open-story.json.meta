@@ -1,0 +1,10 @@
+author: pmario
+core-version: >=5.1.14
+dependents: $:/plugins/wikilabs/xenlist
+description: Open several story tiddlers
+list: readme license history
+name: Open Story
+plugin-type: plugin
+title: $:/plugins/wikilabs/tm-open-story
+type: application/json
+version: 0.2.0-beta
